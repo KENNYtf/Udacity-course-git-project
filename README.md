@@ -1,1 +1,1 @@
-# Udacity-course-git-project
+# Udacity/course-git-blog-project
